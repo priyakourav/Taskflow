@@ -1,6 +1,4 @@
 
-/* GLOBAL RESET */
-
 *{
 margin:0;
 padding:0;
@@ -9,7 +7,6 @@ font-family:Segoe UI, sans-serif;
 }
 
 /*COLOR VARIABLES*/
-
 :root{
 
 --primary:#5f9cff;
