@@ -1,4 +1,4 @@
-# Smart To-Do List 
+# TaskFlow – Smart Task Management Application
 
 A modern and interactive **To-Do List Web App** built using **HTML, CSS, and JavaScript**.
 This project helps users manage daily tasks with a clean UI, priority levels, filters, and local storage support.
