@@ -1,6 +1,4 @@
 
-/* ---------------- GLOBAL RESET ---------------- */
-
 *{
 margin:0;
 padding:0;
@@ -8,8 +6,7 @@ box-sizing:border-box;
 font-family:Segoe UI, sans-serif;
 }
 
-/* ---------------- COLOR VARIABLES ---------------- */
-
+/*COLOR VARIABLES*/
 :root{
 
 --primary:#5f9cff;
@@ -25,7 +22,7 @@ font-family:Segoe UI, sans-serif;
 
 }
 
-/* ---------------- BODY BACKGROUND ---------------- */
+/*BODY BACKGROUND*/
 
 body{
 
@@ -49,7 +46,7 @@ overflow:hidden;
 
 }
 
-/* ---------------- APP CONTAINER ---------------- */
+/*APP CONTAINER*/
 
 .app{
 
@@ -75,7 +72,7 @@ animation:fadeIn 0.6s ease;
 
 }
 
-/* ---------------- TITLE ---------------- */
+/*TITLE*/
 
 h1{
 text-align:center;
@@ -83,7 +80,7 @@ margin-bottom:20px;
 color:white;
 }
 
-/* ---------------- INPUT AREA ---------------- */
+/*INPUT AREA*/
 
 .input-section{
 display:flex;
@@ -121,7 +118,7 @@ border:1px solid #ddd;
 
 }
 
-/* ---------------- BUTTONS ---------------- */
+/*BUTTONS*/
 
 button{
 
@@ -155,7 +152,7 @@ transform:scale(0.95);
 
 }
 
-/* ---------------- FILTER BUTTONS ---------------- */
+/*FILTER BUTTONS*/
 
 .filters{
 
@@ -173,7 +170,7 @@ color:black;
 
 }
 
-/* ---------------- TASK LIST ---------------- */
+/* TASK LIST*/
 
 ul{
 
@@ -198,7 +195,7 @@ background:var(--primary);
 border-radius:10px;
 }
 
-/* ---------------- TASK ITEM ---------------- */
+/* TASK ITEM */
 
 li{
 
@@ -237,7 +234,7 @@ li.dragging{
 opacity:0.5;
 }
 
-/* ---------------- PRIORITY COLORS ---------------- */
+/*PRIORITY COLORS*/
 
 .high{
 border-left:6px solid var(--danger);
@@ -251,7 +248,7 @@ border-left:6px solid var(--warning);
 border-left:6px solid var(--success);
 }
 
-/* ---------------- COMPLETED TASK ---------------- */
+/*COMPLETED TASK*/
 
 .completed{
 
@@ -263,7 +260,7 @@ animation:taskDone 0.3s ease;
 
 }
 
-/* ---------------- DELETE ICON ---------------- */
+/*DELETE ICON*/
 
 .delete{
 
@@ -283,7 +280,7 @@ color:#ff3b3b;
 
 }
 
-/* ---------------- COMPLETE BUTTON ---------------- */
+/*COMPLETE BUTTON */
 
 .complete-btn{
 
@@ -309,7 +306,7 @@ background:#07aa1d;
 
 }
 
-/* ---------------- TASK COUNT ---------------- */
+/* TASK COUNT */
 
 #taskCount{
 
@@ -319,7 +316,7 @@ font-size:14px;
 
 }
 
-/* ---------------- THEME BUTTON ---------------- */
+/*THEME BUTTON */
 
 #themeToggle{
 
@@ -336,7 +333,7 @@ cursor:pointer;
 
 }
 
-/* ---------------- DARK MODE ---------------- */
+/* DARK MODE*/
 
 body.dark{
 
@@ -368,7 +365,7 @@ border:none;
 
 }
 
-/* ---------------- ANIMATIONS ---------------- */
+/*ANIMATIONS */
 
 @keyframes meshMove{
 

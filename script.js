@@ -67,7 +67,7 @@ updateCount()
 
 }
 
-// ===== ADD TASK =====
+//ADD TASK
 
 function addTask(){
 

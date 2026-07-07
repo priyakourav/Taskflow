@@ -22,9 +22,9 @@ The goal of this project was to practice **JavaScript DOM manipulation, local st
 
 ## Tech Stack
 
-* **HTML5** – Structure of the application
-* **CSS3** – Styling, animations, and responsive layout
-* **JavaScript (Vanilla JS)** – Logic, DOM manipulation, and local storage
+ **HTML5** – Structure of the application
+ **CSS3** – Styling, animations, and responsive layout
+ **JavaScript (Vanilla JS)** – Logic, DOM manipulation, and local storage
 
 No frameworks or libraries were used.
 
