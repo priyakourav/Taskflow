@@ -1,10 +1,8 @@
 # TaskFlow – Smart Task Management Application
 
-A modern and interactive **To-Do List Web App** built using **HTML, CSS, and JavaScript**.
-This project helps users manage daily tasks with a clean UI, priority levels, filters, and local storage support.
-
-The goal of this project was to practice **JavaScript DOM manipulation, local storage, and UI design** while building a practical productivity tool.
-
+TaskFlow is a modern and responsive task management web application built using HTML, CSS, and JavaScript. It enables users to efficiently organize daily tasks with features like task 
+prioritization, filtering, drag-and-drop functionality, dark mode, and local storage support.
+This project was built to strengthen my JavaScript skills, particularly DOM manipulation, event handling, and local storage, while creating a practical productivity application with a clean and user-friendly interface.
 
 ## Live Features
 
@@ -38,7 +36,7 @@ No frameworks or libraries were used.
 
 ## Project Structure
 
-todo-project
+TaskFlow
 │
 ├── index.html
 ├── style.css
@@ -72,5 +70,4 @@ While building this project, I practiced:
 
 ## Live Demo Link 
 
-https://priyakourav.github.io/Smart-To-Do-List/
-
+https://priyakourav.github.io/Taskflow/
